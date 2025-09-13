@@ -11,6 +11,8 @@
 #include <string.h>
 #include <ctype.h>
 #include "esp_log.h"
+#include "driver/gpio.h"
+// #include "rtc_io.h"
 #include "esp_console.h"
 #include "esp_system.h"
 #include "esp_sleep.h"
